@@ -7,3 +7,9 @@
 ![92](https://github.com/Oigen181/DDL-DML-Andreev-Evgeny/assets/126493876/9e2f0155-505c-4d99-b23b-ee974ee93c7c)
 
 ---
+
+### Задание 2
+
+![95](https://github.com/Oigen181/DDL-DML-Andreev-Evgeny/assets/126493876/607096f3-fa84-4180-86a7-38b666d7bec9)
+
+---
